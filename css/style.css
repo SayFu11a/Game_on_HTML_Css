@@ -31,7 +31,7 @@ a {
   height: 100%;
   top: 0;
   left: 0;
-  cursor: url("../../img/sosok.png") 24 24, auto; }
+  cursor: url("../img/sosok.png") 24 24, auto; }
 
 .game:hover .game__win {
   -webkit-animation: win 60s steps(1) forwards;
